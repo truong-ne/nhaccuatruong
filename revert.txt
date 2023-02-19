@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-UPDATE 3
-
-=======
 UPDATE 1
->>>>>>> parent of 1940b83 (v2)
