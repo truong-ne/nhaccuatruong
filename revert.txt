@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 UPDATE 1
+=======
+UPDATE 2
+
+>>>>>>> parent of d6ea9ff (v3)
